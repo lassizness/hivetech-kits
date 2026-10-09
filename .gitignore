@@ -1,0 +1,7 @@
+
+# Generated Forge/Gradle files
+/build/
+/run/
+/.gradle/
+/out/
+*.log

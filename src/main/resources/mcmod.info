@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "hivetechkits",
+    "name": "HiveTech Kits",
+    "description": "Server-side privilege kits for HiveTech",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "HiveTech"
+    ]
+  }
+]
